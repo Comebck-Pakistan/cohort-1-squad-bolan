@@ -11,37 +11,38 @@
 - Noor ul Huda
 - Muhammad Luqman
 
+**GitHub usernames:**
+
+- [@abduulwadood](https://github.com/abduulwadood)
+- [@noorulhuda-1](https://github.com/noorulhuda-1)
+- [@abusufyan01](https://github.com/abusufyan01)
+- [@mluqmanmwt](https://github.com/mluqmanmwt)
+
 ---
 
 ## 💡 Our Idea
 
-Our squad is building from **one** of the ten ideas in the
-[Cohort 1 Product Challenge](https://github.com/Comebck-Pakistan/cohort-1-product-challenge). The
-idea is a starting line, not a spec — our job is to **narrow it** to one specific user,
-one painful problem, and one small thing we can ship in 8 weeks.
+Our squad picked **[Idea 3 — The Shoebox-to-Books Bookkeeper](https://github.com/Comebck-Pakistan/cohort-1-product-challenge#idea-3--the-shoebox-to-books-bookkeeper)** from the [Cohort 1 Product Challenge](https://github.com/Comebck-Pakistan/cohort-1-product-challenge). Below are our ideation-stage validation answers, reproduced exactly as we submitted them.
 
-**Pick one of the ten ideas, then delete the rest of this list:**
+### One specific user
 
-1. The Small-Business Brain (WhatsApp-first)
-2. The Urdu-First Study Coach
-3. The Shoebox-to-Books Bookkeeper
-4. The Freelancer's Co-Pilot
-5. The Always-On Front Desk (Voice/WhatsApp Agent)
-6. The Farmer's Advisor in Your Pocket
-7. The SME Paperwork Generator
-8. The Social-Commerce Support Agent
-9. The Fair First-Round Recruiter
-10. The Public-Services Navigator
+A Karachi-based wheat flour micro-distributor who supplies local kiryana and general stores on credit and has to track who owes him money through paper invoices, WhatsApp chats, and memory.
 
-### 📌 Our pick
+### The painful problem
 
-> _Fill this in as a squad._
+After every delivery, the distributor may have a handwritten receipt, a photographed invoice, or a WhatsApp screenshot, but no single live view of what each shop owes. He manually searches chats or notebook pages to follow up, while partial payments and missed due dates make the process messy. This delays collections and leaves his working capital stuck with retailers.
 
-- **Idea we picked:** _#__ — ____________________________________________
-- **One specific user:** _______________________________________________
-- **The painful problem:** _____________________________________________
-- **Our 8-week wedge (the one small thing we'll ship):** _______________
-- **The one number that proves people want it:** _______________________
+### Our 8-week wedge
+
+A bilingual Urdu-English Android app where a micro-distributor photographs a credit invoice, confirms the shop and amount, then sees a daily list of overdue balances with a one-tap WhatsApp payment reminder and partial-payment recording.
+
+### The one number that proves people want it
+
+10 micro-distributors across different industries use the app to record one real week of credit sales and send at least one collection reminder to a retailer.
+
+### Why we picked this idea
+
+We chose this because we have already spoken to a Karachi micro-distributor who experiences this problem directly, as well as a finance/accounting professional who can validate whether our records and payment flows make sense. The pain is concrete, frequent, and connected to cash collection: if a distributor loses track of who owes money, their working capital gets trapped. We can use these early conversations and referrals in local distributor networks to test with real users instead of building for an imagined problem.
 
 ---
 
